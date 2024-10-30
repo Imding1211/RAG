@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Create a new conda environment
    ```sh
-   conda create --name RAG_LLM python=3.11
+   conda create --name RAG python=3.11
    ```
    
 2. Activate environment
@@ -42,12 +42,12 @@ To get a local copy up and running, follow these simple steps.
 
 3. Clone the repo
    ```sh
-   git clone https://github.com/Imding1211/RAG_LLM.git
+   git clone https://github.com/Imding1211/RAG.git
    ```
    
 4. Change directory
    ```sh
-   cd RAG_LLM
+   cd RAG
    ```
    
 5. Install the required Python packages
@@ -128,7 +128,7 @@ To get a local copy up and running, follow these simple steps.
 
 Chi Heng Ting - a0986772199@gmail.com
 
-Project Link - https://github.com/Imding1211/RAG_LLM
+Project Link - https://github.com/Imding1211/RAG
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
