@@ -7,7 +7,6 @@
   <li><a href="#built-with">Built With</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
   <li><a href="#usage">Usage</a></li>
-  <li><a href="#contact">Contact</a></li>
   <li><a href="#references">References</a></li>
 </ol>
 
@@ -122,14 +121,6 @@ To get a local copy up and running, follow these simple steps.
    python main.py clear
   ```
    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Chi Heng Ting - a0986772199@gmail.com
-
-Project Link - https://github.com/Imding1211/RAG
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## References
